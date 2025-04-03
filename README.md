@@ -15,3 +15,11 @@ Welcome to my beginner-level UI/UX projects repository! This collection showcase
 * **Description**: Created a simple blog website design with emphasis on readability and navigation.
 * **Tech Stack**: Figma, Adobe XD
 
+## Future Updates & Enhancements
+Advanced interactivity, more responsive designs, and enhanced visual elements with animations.
+
+## GitHub Stars
+If you find this project useful, consider starring ⭐ this repository to show your support!
+
+## Feedback & Contact
+I welcome feedback, suggestions, and collaboration opportunities. Feel free to reach out via: Email: swathykrishnamany01@gmail.com If you have any suggestions or want to collaborate, feel free to reach out! 
